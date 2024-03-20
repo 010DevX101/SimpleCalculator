@@ -1,5 +1,6 @@
 # SimpleCalculator
 ![version](https://img.shields.io/badge/version-1.0.0-yellow)
+<a href="https://github.com/010DevX101/SimpleCalculator/actions"><img src="https://github.com/rojo-rbx/rojo/workflows/CI/badge.svg" alt="Tests status"/></a>
 <br>
 <br>
 Simple calculator that sanitizes user input, written in C#.
